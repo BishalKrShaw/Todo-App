@@ -23,6 +23,7 @@ function App() {
   return (
     <>
       <div className="bg-slate-950 max-w-screen min-h-screen">
+        <h1 className="text-white text-center sm:text-[2rem] text-[1.5rem] font-bold py-4">Todo App</h1>
         <main className="max-w-[1100px] h-full mx-auto px-[15px] pt-4 flex flex-col">
           <div
             id="todo-input-container"
